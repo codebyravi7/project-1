@@ -13,7 +13,7 @@ const io = new Server(httpServer, {
     methods: ["GET", "POST"],
   },
 });
-//user came
+
 const ySocketIO = new YSocketIO(io);
 ySocketIO.initialize();
 

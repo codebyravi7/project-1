@@ -75,7 +75,7 @@ function App() {
             className="p-2 rounded-lg bg-amber-50 text-gray-950 font-bold"
             type="submit"
           >
-            Join
+            Join The Common Working Space
           </button>
         </form>
       </main>
